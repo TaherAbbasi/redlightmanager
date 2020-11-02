@@ -1,0 +1,7 @@
+sphinx
+nose
+arabic-reshaper
+numpy
+python-bidi
+Pillow
+opencv-python

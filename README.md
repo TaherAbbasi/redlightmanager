@@ -9,4 +9,8 @@ A package for adding persian text to images.
 ## Dependencies
 
 - Python3
-- 
+- arabic-reshaper
+- numpy
+- python-bidi
+- Pillow
+- opencv-python
