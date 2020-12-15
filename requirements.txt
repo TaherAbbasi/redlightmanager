@@ -5,3 +5,4 @@ numpy
 python-bidi
 Pillow
 opencv-python
+sqlalchemy
