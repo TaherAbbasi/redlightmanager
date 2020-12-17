@@ -6,3 +6,4 @@ python-bidi
 Pillow
 opencv-python
 sqlalchemy
+configparser

@@ -1,6 +1,6 @@
 # redlightmanager
 
-A package for adding persian text to images.
+A package for managaing redlight cameras including Tattile.
 
 ## Authors
 
@@ -14,3 +14,4 @@ A package for adding persian text to images.
 - python-bidi
 - Pillow
 - opencv-python
+- sqlalchemy
