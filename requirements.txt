@@ -7,3 +7,4 @@ Pillow
 opencv-python
 sqlalchemy
 configparser
+mysql-connector-python
